@@ -1,0 +1,535 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.21:8501
+  External URL: http://103.188.93.193:8501
+
+  Serper Places: 10 businesses (after geo-filter).
+  [1/10] CHANGAN AUTO LAHORE -> skip (already in DB: changanautolahore.com.pk)
+  [2/10] Honda Lahore (Pvt.) Ltd. -> skip (already in DB: hondalahore.com)
+  [3/10] Changan City Sales -> skip (already in DB: citysales.pk)
+  [4/10] Suzuki Sethi Motors -> skip (already in DB: sethimotors.pk)
+  [5/10] H.N Motors -> skip (name+city already in DB)
+  [6/10] CAR JAPAN MOTORS -> skip (already in DB: carjapan.pk)
+  [7/10] A.K Motors -> SAVED (NO WEBSITE)
+  [8/10] Waleed Motors -> SAVED (NO WEBSITE)
+  [9/10] Allah Hoo Motors -> skip (name+city already in DB)
+  [10/10] Dewan Motors - BMW Work shop PHEV + DC Charging stataion -> skip (name+city already in DB)
+    [1/5] Tooth Care Dental Practice  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [2/5] Murphy Plumbing and Heating  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [3/5] Bilal Dental Surgery  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [4/5] Lucky Tattoo and Piercing  UNREACHABLE — Could not connect to site (connection timed out)
+    [5/5] Evil Machines  UNREACHABLE — Could not connect to site (connection timed out)
+  Serper Places: 7 businesses (after geo-filter).
+  [1/7] CHANGAN AUTO LAHORE -> skip (already in DB: changanautolahore.com.pk)
+  [2/7] Changan City Sales -> skip (already in DB: citysales.pk)
+  [3/7] Honda Lahore (Pvt.) Ltd. -> skip (already in DB: hondalahore.com)
+  [4/7] Suzuki Sethi Motors -> skip (already in DB: sethimotors.pk)
+  [5/7] Warehouse By International Motors -> DB conflict, skipped
+  [6/7] CAR JAPAN MOTORS -> skip (already in DB: carjapan.pk)
+  [7/7] H.N Motors -> skip (name+city already in DB)
+    [1/5] Tooth Care Dental Practice  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [2/5] Murphy Plumbing and Heating  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [3/5] Bilal Dental Surgery  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [4/5] Evil Machines  UNREACHABLE — Could not connect to site (connection timed out)
+    [5/5] Lucky Tattoo and Piercing  UNREACHABLE — Could not connect to site (connection timed out)
+  Serper Places: 12 businesses (after geo-filter).
+  [1/12] Musa Minal Motors -> SAVED (https://musaminalmotors.com/ [domain_match])
+  [2/12] Changan City Sales -> skip (already in DB: citysales.pk)
+  [3/12] Autozxpress -> skip (name+city already in DB)
+  [4/12] RS Motors -> SAVED (NO WEBSITE)
+  [5/12] Warehouse By International Motors -> DB conflict, skipped
+  [6/12] CAR JAPAN MOTORS -> skip (already in DB: carjapan.pk)
+  [7/12] Allah Hoo Motors -> skip (name+city already in DB)
+  [8/12] New Lahore Motors -> skip (already in DB: lahorediary.com)
+  [9/12] Suzuki Modern Township Motors -> SAVED (https://suzukimtownship.com/ [domain_match])
+  [10/12] FAW Sajjad Motors -> SAVED (NO WEBSITE)
+  [11/12] Olx Motors -> DB conflict, skipped
+  [12/12] Dewan Motors - BMW Work shop PHEV + DC Charging stataion -> skip (name+city already in DB)
+    [1/7] Tooth Care Dental Practice  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [2/7] Murphy Plumbing and Heating  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [PageSpeed] calling for musaminalmotors.com
+    [PageSpeed] calling for suzukimtownship.com
+    [PageSpeed] musaminalmotors.com: mobile=68 desktop=89
+    [3/7] Musa Minal Motors  3 issues  (43.2s)  [not_mobile_ready]
+    [4/7] Bilal Dental Surgery  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [PageSpeed] suzukimtownship.com: mobile=76 desktop=92
+    [5/7] Suzuki Modern Township Motors  6 issues  (98.3s)  [missing_title_meta]
+    [6/7] Evil Machines  UNREACHABLE — Could not connect to site (connection timed out)
+    [7/7] Lucky Tattoo and Piercing  UNREACHABLE — Could not connect to site (connection timed out)
+  Serper Places: 2 businesses (after geo-filter).
+  [1/2] CHANGAN AUTO LAHORE -> skip (already in DB: changanautolahore.com.pk)
+  [2/2] Changan City Sales -> skip (name+city already in DB)
+    [1/5] Tooth Care Dental Practice  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [2/5] Murphy Plumbing and Heating  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [3/5] Bilal Dental Surgery  UNREACHABLE — Could not connect to site (connection refused or DNS failure)
+    [4/5] Lucky Tattoo and Piercing  UNREACHABLE — Could not connect to site (connection timed out)
+    [5/5] Evil Machines  UNREACHABLE — Could not connect to site (connection timed out)
+
+Contact enrichment — 21 businesses, 4 workers
+
+#     Business                                   Email                                  Source
+────────────────────────────────────────────────────────────────────────────────────────────────────
+1     ACE Plumbing & Heating                     —                                      not found
+2     Allan Plumbing Services                    —                                      not found
+3     Dental Aesthetics                          —                                      not found
+4     Cherry Tattoo & Piercing                   —                                      not found
+5     Honda Lahore (Pvt.) Ltd.                   —                                      not found
+6     Manchester Plumbing and Building Enquirie  —                                      not found
+7     Honda Gateway                              —                                      not found
+8     Askari Dental Care (Implant & Aesthetic c  —                                      not found
+9     Baltica Tattoo                             —                                      not found
+10    Dental Pearl Clinic                        —                                      not found
+11    Lahore Dental & Medical Centre             —                                      not found
+12    Al Aziz Family Dental clinic 24/7 open     —                                      not found
+13    Smile Hub Clinics                          —                                      not found
+14    Bassetti Tattoo e Piercing Roma            —                                      not found
+15    Suzuki Modern Township Motors              info@suzukimtownship.com               homepage
+16    Metro Plumb (South Manchester)             —                                      not found
+17    My Plumbers                                —                                      not found
+18    A&T Central Heating                        —                                      not found
+19    Cheshire Drainage Plumbing and Heating Se  —                                      not found
+20    Smile Solutions                            —                                      not found
+21    Manchester Plumbers 24 7 365               —                                      not found
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Done (website enrichment): 1 found, 20 not found
+
+Social-profile enrichment — 13 no-website leads
+#     Business                                   Email                                  Source
+────────────────────────────────────────────────────────────────────────────────────────────────────
+1     Inkforpassion Tattoo & Piercing Roma       —                                      not found
+2     Flower Power - Tattoo & Piercing Roma      —                                      not found
+3     Arde Roma Tattoo & Piercing Shop           —                                      not found
+4     Perla bodypiercing & jewelry               —                                      not found
+5     Jay Lester Tattoo Trastevere               —                                      not found
+6     Mr.Purple Bodypiercer                      —                                      not found
+7     Fine Line Tattoo Nefermaly Ink             —                                      not found
+8     Soul Trip Tattoo Studio                    —                                      not found
+9     32 Dental Care & Implant Center            —                                      not found
+10    Dr M/M Rehman's🦷32 Dental Clinic and Impl  —                                      not found
+11    Innovodent dental clinic Dr Talal & assoc  —                                      not found
+12    VISAGE Dental Cinic                        —                                      not found
+13    Asad Dental And Maxillofacial Surgery Cli  —                                      not found
+────────────────────────────────────────────────────────────────────────────────────────────────────
+Social enrichment: 0 emails found out of 13
+
+DB summary:
+  Qualified leads with email    : 46  → go to email queue
+  No-website leads without email: 39  → WhatsApp outreach
+
+  Stage 5 — Email Drafts
+  Model   : gpt-4o
+  Drafting: 21 lead(s)  
+
+
+====================================================================
+  #1  [A]  Suzuki Modern Township Motors  |  Lahore  (69/100, 1200 reviews)
+  Language : English
+  To       : info@suzukimtownship.com
+  Draft ID : 107
+  Valid    : PASS
+  Subject  : Your page weighs 6 MB — too slow on mobile  (42 chars)
+  Words    : 118
+
+  ────────────────────────────────────────────────────────────────────
+  Suzuki Modern Township Motors has an impressive 4.5-star rating from 1200 reviews. It's clear your customers appreciate your service, but there's an issue that might be affecting their online experience.
+  
+  Your page weighs 6 MB, which is extremely large. A heavy page loads slowly on any mobile connection — visitors give up before it finishes. Additionally, your site lacks a meta description, making it harder for potential customers to find you online.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #2  [B]  Dr. Zeeshan Tahir – DRM Dental  |  lahore  (57/100, 724 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 108
+  Valid    : PASS
+  Subject  : No online booking on your site  (30 chars)
+  Words    : 125
+
+  ────────────────────────────────────────────────────────────────────
+  With 5.0 stars from 724 reviews, Dr. Zeeshan Tahir's practice clearly has a stellar reputation in Lahore. So, why is there no online booking option for your patients?
+  
+  No online booking system was found, which means customers can't self-book appointments. Every potential customer who can't book online is one more appointment your competitor gets. Additionally, there's no analytics or tracking pixel in place, leaving you without crucial data on your website visitors or how well your ads are performing.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #3  [B]  JB7 Plumbing and Heating Limited  |  Manchester  (57/100, 427 reviews)
+  Language : English
+  To       : queries@jbplumbing.co.uk
+  Draft ID : 109
+  Valid    : PASS
+  Subject  : Clients can't book through your website  (39 chars)
+  Words    : 128
+
+  ────────────────────────────────────────────────────────────────────
+  I was looking at the top-reviewed Plumber in Manchester and noticed JB7 Plumbing and Heating Limited has an impressive 4.8-star rating from 427 reviews. With such a prominent reputation, it's clear that many customers appreciate your services.
+  
+  However, I found that your website is not optimized for mobile devices, making it difficult for potential clients to navigate on their phones. Plus, without online booking, anyone who finds you after hours has no way to act on it, which could mean missed opportunities.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #4  [B]  JD Plumbing and Heating (Manchester) Limited  |  Manchester  (57/100, 203 reviews)
+  Language : English
+  To       : hello@jdplumbingmcr.co.uk
+  Draft ID : 110
+  Valid    : PASS
+  Subject  : Bookings: phone calls only?  (27 chars)
+  Words    : 143
+
+  ────────────────────────────────────────────────────────────────────
+  JD Plumbing and Heating (Manchester) Limited has an impressive 4.8-star rating from 203 reviews, which is no small feat in the plumbing industry. However, while your service quality is top-notch, there's a significant gap on your website that might be costing you new clients.
+  
+  Your current website setup lacks an online booking system, so potential customers can't self-book appointments. People expect to book at 11pm — without it, they move on to whoever makes it easy. Furthermore, PageSpeed confirms your site is not mobile-friendly, which could be driving away users trying to reach you on their phones.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #5  [B]  The Smile Studio Dental Clinic  |  lahore  (57/100, 136 reviews)
+  Language : English
+  To       : shoaibsahibzada911@hotmail.com
+  Draft ID : 111
+  Valid    : PASS
+  Subject  : Your site doesn't take reservations  (35 chars)
+  Words    : 112
+
+  ────────────────────────────────────────────────────────────────────
+  136 reviews and a 4.9-star rating — why can't your patients book an appointment directly on your website?
+  
+  Your website currently lacks an online booking system, which means customers can't self-book appointments. Every potential customer who can't book online is one more appointment your competitor gets. Additionally, your site is not mobile-friendly, which could turn away visitors who use their phones to search for dental services.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #6  [B]  Manchester Plumbers 24 7 365  |  Manchester  (57/100, 115 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 112
+  Valid    : FAIL — body missing number from evidence (expected one of: ['1.'])
+  Subject  : Your site lacks online booking options  (38 chars)
+  Words    : 127
+
+  ────────────────────────────────────────────────────────────────────
+  I was looking at the top-reviewed Plumber in Manchester and noticed that Manchester Plumbers 24 7 365 has an impressive 4.7-star rating with 115 reviews. It's clear that you're a trusted service provider in the area.
+  
+  However, I found that there is no online booking system on your website, which means customers can't self-book through platforms like Calendly or Booksy. Without online booking, anyone who finds you after hours has no way to act on it, potentially losing you valuable business.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #7  [B]  Salford Plumbers  |  Manchester  (57/100, 51 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 113
+  Valid    : PASS
+  Subject  : Your site misses online booking options  (39 chars)
+  Words    : 135
+
+  ────────────────────────────────────────────────────────────────────
+  Hi Salford Plumbers Team,
+  
+  Congratulations on achieving a stellar 4.9-star rating with 51 reviews! It's clear you have a loyal customer base. However, I noticed that your website lacks an online booking system. Without options like Calendly or Fresha, potential customers can't self-book appointments.
+  
+  People often want to book services at their convenience, even at 11pm. Without this feature, they might choose a competitor who offers an easier booking process. Additionally, your website uses jQuery 1.x, which is outdated and could slow down your site while posing security risks.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #8  [B]  MCR Heating and Plumbing ltd  |  Manchester  (56/100, 124 reviews)
+  Language : English
+  To       : info@mcrheatingandplumbing.co.uk
+  Draft ID : 114
+  Valid    : PASS
+  Subject  : Your site lacks a booking feature  (33 chars)
+  Words    : 99
+
+  ────────────────────────────────────────────────────────────────────
+  With 124 reviews and a perfect 5.0 star rating, how are your customers booking their appointments with you?
+  
+  Currently, there's no online booking system on your site, meaning customers cannot self-book their services with MCR Heating and Plumbing ltd. Every potential customer who can't book online is one more appointment your competitor gets.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #9  [B]  The Bad Church - Tattoo & Piercing  |  Rome  (55/100, 559 reviews)
+  Language : Italian
+  To       : thebadchurch.tattoo@gmail.com
+  Draft ID : 115
+  Valid    : PASS
+  Subject  : Il tuo sito pesa 25 MB: troppo lento  (36 chars)
+  Words    : 121
+
+  ────────────────────────────────────────────────────────────────────
+  Stavo guardando i body piercing shop più recensiti di Rome e ho notato che The Bad Church - Tattoo & Piercing ha un'ottima reputazione con 559 recensioni e una valutazione di 4.8 stelle.
+  
+  Tuttavia, il sito pesa 25 MB. Con una connessione 4G normale, una pagina così grande impiega secondi a caricarsi — i visitatori se ne vanno. Inoltre, l'email di contatto thebadchurch.tattoo@gmail.com usa un provider gratuito, il che non è professionale per un'attività con un proprio dominio come badchurchtattoo.it.
+  
+  Se vi interessa, vi mando una breve analisi gratuita del sito con i 3 problemi principali — senza impegno. Sono Hassnat di Haxantech — aiutiamo attività locali a trasformare il sito in clienti. Vi va se ve la mando?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #10  [B]  Smile Stylist Dental Clinics  |  Manchester  (54/100, 1000 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 116
+  Valid    : PASS
+  Subject  : No self-booking option available on your site  (45 chars)
+  Words    : 121
+
+  ────────────────────────────────────────────────────────────────────
+  Congratulations on achieving a stellar 5.0-star rating with 1000 reviews! Smile Stylist Dental Clinics clearly excels in customer satisfaction. However, I noticed a potential barrier: there's no online booking system on your site, such as Calendly or Booksy.
+  
+  Without an online booking option, anyone who finds you after hours has no way to act on it. Additionally, there's no analytics or tracking pixel, meaning you can't gather data on website visitors or measure ad ROI.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #11  [B]  Dental Square  |  lahore  (54/100, 138 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 117
+  Valid    : FAIL — body missing number from evidence (expected one of: ['13', '15'])
+  Subject  : Mobile site issues losing customers  (35 chars)
+  Words    : 94
+
+  ────────────────────────────────────────────────────────────────────
+  With 138 reviews and a stellar 4.9-star rating, why risk losing patients due to a slow website?
+  
+  Your site isn't loading well on mobile devices, which means potential patients might leave before even booking an appointment. This could translate into missed opportunities and lost revenue for your clinic.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #12  [B]  CHANGAN AUTO LAHORE  |  Lahore  (53/100, 1300 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 118
+  Valid    : PASS
+  Subject  : Mobile score is 43/100 — needs improvement  (42 chars)
+  Words    : 121
+
+  ────────────────────────────────────────────────────────────────────
+  I was looking at the top-reviewed Car dealer in Lahore and noticed that CHANGAN AUTO LAHORE has an impressive 4.7-star rating with 1300 reviews. Clearly, you have built a strong reputation among your customers.
+  
+  However, I discovered that your site has a mobile performance score of 43/100. This indicates a poor experience for users on phones, which could potentially hurt your Google ranking and lead to lost customers who cannot easily access your services online.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #13  [B]  Perfect Teeth  |  lahore  (53/100, 200 reviews)
+  Language : English
+  To       : info@perfectteeth.com.pk
+  Draft ID : 119
+  Valid    : PASS
+  Subject  : Lahore's top dentist: no self-booking online  (44 chars)
+  Words    : 124
+
+  ────────────────────────────────────────────────────────────────────
+  Perfect Teeth is truly impressive with a 4.8-star rating and 200 glowing reviews. However, I noticed that your website currently lacks an online booking system, making it difficult for customers to schedule appointments easily.
+  
+  People often look to book appointments at any hour, even at 11pm, and without an online booking option, they may choose a competitor who offers that convenience. Additionally, your site is missing a meta description, which could affect how potential patients find you online.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #14  [B]  Lahore Dental Care | Dr. Hasnain Nizami  |  lahore  (53/100, 98 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 120
+  Valid    : PASS
+  Subject  : Your mobile site needs a quick fix  (34 chars)
+  Words    : 90
+
+  ────────────────────────────────────────────────────────────────────
+  98 reviews and a 4.9-star rating — why is the site not attracting more mobile visitors?
+  
+  Your website is not optimized for mobile, which means potential patients might struggle to view it on their phones. This could lead to lost customers and missed bookings.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #15  [B]  Manchester Pipe and Site Services – Hot Water Cylinder Specialist  |  Manchester  (52/100, 100 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 121
+  Valid    : PASS
+  Subject  : Your website builder is obsolete  (32 chars)
+  Words    : 129
+
+  ────────────────────────────────────────────────────────────────────
+  I was looking at the top-reviewed Plumber in Manchester, and I noticed that Manchester Pipe and Site Services – Hot Water Cylinder Specialist boasts an impressive 5.0-star rating with 100 reviews. It's clear that you have a stellar reputation in the community.
+  
+  However, your website is currently not mobile-friendly, which could lead to potential customers leaving your site. Moreover, without any analytics or tracking, you’re missing valuable insights into your website visitors and advertising ROI. This could mean lost customers and missed bookings.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #16  [B]  Nelson Plumbing & Heating Ltd  |  Manchester  (52/100, 74 reviews)
+  Language : English
+  To       : admin@nelsonplumbing.co.uk
+  Draft ID : 122
+  Valid    : PASS
+  Subject  : Customers can't self-book on your site  (38 chars)
+  Words    : 121
+
+  ────────────────────────────────────────────────────────────────────
+  Hi Nelson Plumbing & Heating Ltd team,
+  
+  I was impressed to see your fantastic 4.9-star rating from 74 satisfied customers. It's clear you're doing a great job in Manchester! However, I noticed there's no online booking system on your site, which could be limiting your potential reach.
+  
+  No online booking system means customers cannot self-book, which could be costing you appointments. Every potential customer who can't book online is one more appointment your competitor gets.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #17  [B]  CURE N CARE DENTAL CENTRE  |  lahore  (51/100, 297 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 123
+  Valid    : PASS
+  Subject  : Your business email is on Gmail  (31 chars)
+  Words    : 109
+
+  ────────────────────────────────────────────────────────────────────
+  With 297 reviews and a stellar 4.9-star rating, why is your website not mobile-friendly?
+  
+  The site currently isn't optimized for mobile devices, which means potential patients might face difficulties accessing your site on their phones or tablets. Additionally, using a free email address like @gmail.com instead of your domain makes the business appear less professional, potentially leading to lost opportunities and fewer bookings.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #18  [B]  Daniel Plumbing and handyman  |  Manchester  (50/100, 353 reviews)
+  Language : English
+  To       : lefterdaniel@hotmail.com
+  Draft ID : 124
+  Valid    : PASS
+  Subject  : Missing online booking feature for customers  (44 chars)
+  Words    : 138
+
+  ────────────────────────────────────────────────────────────────────
+  I was looking at the top-reviewed Plumber in Manchester and noticed Daniel Plumbing and handyman boasts an impressive 4.9-star rating with 353 reviews. It's clear that your services are highly valued by your clients.
+  
+  However, I also found that there's no online booking system such as Calendly or Booksy on your site, which means customers cannot self-book. Without online booking, anyone who finds you after hours has no way to act on it. Additionally, I noticed your contact email uses a free provider, which may not convey the professional image you desire.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #19  [B]  Dental Avenue Hospital  |  lahore  (50/100, 326 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 125
+  Valid    : PASS
+  Subject  : Your page is 14 MB — slows mobile access  (40 chars)
+  Words    : 114
+
+  ────────────────────────────────────────────────────────────────────
+  Hi there,
+  
+  Congratulations on maintaining an impressive 4.8-star rating with 326 reviews at Dental Avenue Hospital! However, I noticed your website might be losing visitors due to a significant issue.
+  
+  Your page currently weighs an enormous 14 MB, which can severely slow down loading times on mobile data. A bloated site eats mobile data and pushes visitors to close it before reading anything, potentially costing you new patients.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────
+
+====================================================================
+  #20  [B]  Suzuki Sethi Motors  |  Lahore  (48/100, 2200 reviews)
+  Language : English
+  To       : (pending — run enrich_contacts.py)
+  Draft ID : 126
+  Valid    : PASS
+  Subject  : Your site struggles on mobile  (29 chars)
+  Words    : 89
+
+  ────────────────────────────────────────────────────────────────────
+  2200 reviews and 4.0 stars — why is your site hard to use on mobile?
+  
+  Your website isn't performing well on mobile devices. Many users may find it difficult to navigate, which can lead to lost customers who prefer a smoother browsing experience.
+  
+  If you're interested, I can send you a quick free analysis of your site showing the 3 main issues — no strings attached. I'm Hassnat from Haxantech — we help local businesses turn their website into paying customers. Want me to send it over?
+  
+  Hassnat
+  Haxantech
+  ────────────────────────────────────────────────────────────────────

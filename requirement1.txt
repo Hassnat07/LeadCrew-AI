@@ -1,0 +1,12 @@
+############################################################
+# IMPORTANT: crewai requires Python 3.10, 3.11, or 3.12 only
+# Do NOT use Python 3.13 or newer, it will NOT work!
+############################################################
+crewai>=0.28.0
+crewai-tools>=0.1.0
+streamlit>=1.32.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+dnspython>=2.4.0

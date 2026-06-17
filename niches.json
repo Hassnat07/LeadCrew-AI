@@ -1,0 +1,12 @@
+[
+  {"niche": "tattoo studios",    "city": "Rome, Italy"},
+  {"niche": "dental clinics",    "city": "Rome, Italy"},
+  {"niche": "hair salons",       "city": "Rome, Italy"},
+  {"niche": "barbers",           "city": "Rome, Italy"},
+  {"niche": "physiotherapists",  "city": "Rome, Italy"},
+  {"niche": "plumbers",          "city": "Manchester, UK"},
+  {"niche": "dentists",          "city": "Manchester, UK"},
+  {"niche": "hair salons",       "city": "Manchester, UK"},
+  {"niche": "electricians",      "city": "Manchester, UK"},
+  {"niche": "physiotherapists",  "city": "Manchester, UK"}
+]

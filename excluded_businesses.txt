@@ -1,0 +1,8 @@
+# Exclusion list — businesses that must never be qualified or contacted.
+# Format: one entry per line; lines starting with # are comments.
+#   - Domain only (no spaces, has a dot):  haxantech.com
+#   - Business name (anything with spaces): Darkside Piercing Roma
+#   - Phone (digits / + - ( ) only):       +447911123456
+
+Darkside Piercing Roma
+haxantech.com

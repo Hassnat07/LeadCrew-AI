@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Database — contains real contact data, never commit
+*.db
+leads_sent.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
