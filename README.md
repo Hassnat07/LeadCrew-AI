@@ -1,15 +1,15 @@
 # ⚡ LeadCrew AI — Lead Generation & Outreach Agent
 
 A production-ready **multi-agent AI system** built with **CrewAI** that automatically:
-1. 🔍 **Finds 5 qualified leads** in your target industry
-2. 🧠 **Researches each company** — pain points, recent news, website analysis
-3. ✍️ **Writes personalized cold emails** — under 150 words, specific to each prospect
+1.  **Finds 5 qualified leads** in your target industry
+2.  **Researches each company** — pain points, recent news, website analysis
+3.  **Writes personalized cold emails** — under 150 words, specific to each prospect
 
 Built as a **portfolio project** to showcase on Upwork.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User Input
@@ -37,7 +37,7 @@ Streamlit UI (results + download)
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### 1. Install dependencies
 ```bash
@@ -58,11 +58,11 @@ streamlit run app.py
 - Target industry (e.g. "SaaS startups", "e-commerce brands")
 - Your service (e.g. "AI automation", "web development")
 - Paste API keys in the sidebar
-- Click **Launch Agent Crew** ⚡
+- Click **Launch Agent Crew** 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 lead-gen-agent/
@@ -74,7 +74,7 @@ lead-gen-agent/
 
 ---
 
-## 💡 How to Use This on Upwork
+##  How to Use This on Upwork
 
 1. Record a **Loom demo video** showing the agents running
 2. Show the before (manual lead gen) vs after (automated)
@@ -83,7 +83,7 @@ lead-gen-agent/
 
 ---
 
-## 🔧 Customization Ideas for Clients
+##  Customization Ideas for Clients
 
 - Add LinkedIn scraping via Apify
 - Export to Google Sheets or HubSpot CRM
@@ -106,4 +106,4 @@ lead-gen-agent/
 
 ---
 
-*Built with ❤️ as a CrewAI portfolio project*
+*Built with  as a CrewAI portfolio project*
