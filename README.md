@@ -1,4 +1,4 @@
-# ⚡ LeadCrew AI — Lead Generation & Outreach Agent
+#  LeadCrew AI — Lead Generation & Outreach Agent
 
 A production-ready **multi-agent AI system** built with **CrewAI** that automatically:
 1.  **Finds 5 qualified leads** in your target industry
